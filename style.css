@@ -12,7 +12,7 @@
 
 
 body{
-    background: #001e4d;
+    background: #010c1d;
 }
 
 
@@ -68,6 +68,11 @@ body{
     background: #222;
     color: #fff;
 
+}
+
+
+.btn:disabled{
+    cursor: not-allowed;
 }
 
 
